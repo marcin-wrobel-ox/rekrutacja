@@ -11,7 +11,7 @@ console.log(a++);
 // 3 --------------------
 
 const a = {a: 1};
-a.b = 2;
+a.a++;
 console.log(a);
 
 // how to freez object
